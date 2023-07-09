@@ -2,4 +2,5 @@
 frontend/node_modules
 .env
 .azure/
+static
 __pycache__/
